@@ -49,17 +49,30 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ## 🚀 Featured Projects
 
-### 🌍 **AirGuardian — AI Environmental Monitoring Platform**
-- Real-time analysis of environmental metrics (AQI, CO₂, pollutants)  
-- Predictive analytics for sustainability & agriculture  
-- Blockchain-backed reporting for transparency  
+### 🏥 **Ayush Healthcare Interoperability Platform**  
+- Built an interoperable health platform reducing processing latency by **40%**  
+- Developed a dual-coding engine mapping **1000+ medical terms** with **95% accuracy**  
+- Ensured **100% HL7 FHIR R4 & ISO 22600 compliance**  
+- Integrated WHO APIs + ABHA OAuth2, achieving **<200ms** processing time  
+:contentReference[oaicite:2]{index=2}
 
 ---
 
-### 🍽️ **Food Waste Reduction App (React + Firebase + Google Maps API)**
-- Location-based food-sharing platform  
-- Live map view with geolocation tracking  
-- Multi-language translation support  
+### 🤖 **ATS Resume Score – AI Powered Screening Tool**   
+- Automated resume scoring & alignment using Gemini Flash models  
+- Reduced manual screening time by **80%**, delivered results in **<5 sec**  
+- Implemented keyword matching with **95% accuracy**  
+- Built a secure in-memory pipeline ensuring complete data privacy  
+:contentReference[oaicite:3]{index=3}
+
+---
+
+### 🐾 **Pet Adoption & Animal Welfare Platform**  
+- Designed a responsive multi-page website across all device sizes  
+- Added swipe-able dynamic gallery improving engagement by **30%**  
+- Implemented validation reducing form errors by **40%**  
+- Deployed on Netlify with **99.9% uptime**  
+:contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -84,10 +97,10 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ---
 
 ## 🏆 Achievements
-- 🥈 **2nd Place at HackTheBlock (1,000+ participants)** — won $300  
-- 🎖 Strong performance in **Python, DSA, ML, and Web Development**  
-- 🧠 Built multiple impactful AI-driven innovation projects  
-- 🏅 Actively building large-scale academic + real-world systems  
+- 🥈 **2nd Place at HackTheBlock (1,000+ participants)** — won $300
+- 🥈 **2nd Rank in AI in Web Development** for building a language learning AI platform
+- 🏅 5th Place – Code Hunt @ IIT Ropar
+
 
 ---
 
