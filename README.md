@@ -103,8 +103,16 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ---
 
 ## 📊 GitHub Stats
-![GitHub Metrics](https://metrics.lecoq.io/ajaygangwar945?template=classic&config.timezone=Asia/Kolkata)
-![Streak](https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight)
+
+### 📈 Overall Activity
+<p align="center">
+  <img src="https://metrics.lecoq.io/ajaygangwar945?template=classic&config.timezone=Asia/Kolkata" />
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight" />
+</p>
 
 ---
 
