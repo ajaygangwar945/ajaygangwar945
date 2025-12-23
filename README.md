@@ -50,11 +50,27 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ## 🚀 Featured Projects
 
 ### 🌍 Global Terrorism Analysis Dashboard (Power BI)
-- Interactive Power BI dashboard using the Global Terrorism Database
-- Dynamic KPIs, Azure Maps, slicers, and year-wise trends
-- Organization logos & country flags via GitHub RAW URLs
-- Drill-through insights for regions, organizations, and casualties  
-**Tech:** Power BI, DAX, Power Query, Data Modeling
+
+### 🌍 Global Terrorism Analysis Dashboard (Power BI)
+
+- Built an interactive Power BI dashboard using the **Global Terrorism Database (GTD)**
+- Designed **dynamic KPIs** and year-wise trend analysis using **DAX**
+- Implemented **Azure Maps** for region-wise and country-wise geospatial insights
+- Integrated **organization logos and country flags** via GitHub RAW image URLs
+- Enabled **drill-through analysis** for regions, terrorist organizations, and casualties
+
+**Tech Stack:** Power BI Desktop, Power BI Service, Power Query, DAX, Azure Maps, CSV, GitHub
+
+🔗 **GitHub Repository:** <a href="https://github.com/ajaygangwar945/Global-Terrorism-Analysis">
+<img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github"/>
+</a>
+
+🚀 **Live Power BI Dashboard:** <a href="https://app.powerbi.com/links/nd67FYSFmX">
+<img src="https://img.shields.io/badge/Power%20BI-Live-yellow?logo=powerbi"/>
+</a>
+
+
+
 
 ---
 
