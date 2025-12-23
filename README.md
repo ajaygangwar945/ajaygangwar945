@@ -49,89 +49,62 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ## 🚀 Featured Projects
 
-### 🌍 **Global Terrorism Analysis Dashboard (Power BI)** 
-- Built an interactive Power BI dashboard using the **Global Terrorism Database**
-- Implemented **dynamic KPIs, Azure Maps, slicers, and year-wise trend analysis**
-- Integrated **organization logos & country flags using GitHub RAW image URLs**
-- Enabled drill-through insights for regions, organizations, and casualties  
-🔗 *Power BI | DAX | Power Query | Data Modeling*
+### 🌍 Global Terrorism Analysis Dashboard (Power BI)
+- Interactive Power BI dashboard using the Global Terrorism Database
+- Dynamic KPIs, Azure Maps, slicers, and year-wise trends
+- Organization logos & country flags via GitHub RAW URLs
+- Drill-through insights for regions, organizations, and casualties  
+**Tech:** Power BI, DAX, Power Query, Data Modeling
 
 ---
 
-### 🏥 **Ayush Healthcare Interoperability Platform**
-- Reduced healthcare data processing latency by **40%**
-- Built a dual-coding engine mapping **1000+ medical terms** with **95% accuracy**
-- Ensured **HL7 FHIR R4 & ISO 22600 compliance**
-- Integrated WHO APIs & ABHA OAuth2 with **<200ms response time**  
-🔗 *Healthcare Interoperability | APIs | Secure Systems*
+### 🏥 Ayush Healthcare Interoperability Platform
+- Reduced healthcare processing latency by **40%**
+- Dual-coding engine mapping **1000+ medical terms** with **95% accuracy**
+- HL7 FHIR R4 & ISO 22600 compliant
+- WHO APIs & ABHA OAuth2 integration (<200ms response)  
 
 ---
 
-### 🤖 **ATS Resume Score – AI Powered Screening Tool**
-- Automated resume evaluation using **Gemini Flash models**
-- Reduced manual screening effort by **80%**
-- Delivered real-time results in **<5 seconds**
-- Designed a secure in-memory pipeline ensuring data privacy  
-🔗 *AI | NLP | Resume Parsing*
+### 🤖 ATS Resume Score – AI Powered Screening Tool
+- Automated resume evaluation using Gemini Flash
+- Reduced screening time by **80%**
+- Real-time results in **<5 seconds**
+- Secure in-memory data processing  
 
 ---
 
-### ☔ **Annual Rainfall Analysis – India**
-- Performed EDA on large rainfall datasets (5k–15k records)
-- Analyzed seasonal patterns and long-term rainfall trends
-- Created meaningful visual insights for academic reporting  
-🔗 *Python | Data Analysis | Visualization*
+### ☔ Annual Rainfall Analysis – India
+- EDA on large rainfall datasets (5k–15k records)
+- Seasonal patterns & long-term trends
+- Insightful data visualizations  
 
 ---
 
-### 🧾 **Conference Paper Submission Portal**
-- Designed a complete research submission system using **SQL & PL/SQL**
-- Implemented triggers, constraints, and automated validations
-- Streamlined workflows for students and faculty  
-🔗 *Database Design | Automation*
+### 🧾 Conference Paper Submission Portal
+- SQL & PL/SQL based submission system
+- Automated triggers and validations
+- Faculty–student workflow automation  
 
 ---
 
-### 🔐 **AI Smart Earrings – Patent Project**
+### 🔐 AI Smart Earrings – Patent Project
 - AI-powered personal safety wearable
-- Real-time threat detection using biometric signals
-- Cloud-based emergency alert & learning system  
-🔗 *AI | IoT | Personal Safety*
+- Real-time threat detection
+- Cloud-based emergency alert system  
 
 ---
 
 ## 🏆 Achievements
-- 🥈 **2nd Place – HackTheBlock Hackathon** (1,000+ participants)
-- 🥈 **2nd Rank – AI in Web Development Competition**
-- 🏅 **5th Place – Code Hunt @ IIT Ropar**
+- 🥈 2nd Place – HackTheBlock Hackathon (1,000+ participants)
+- 🥈 2nd Rank – AI in Web Development Competition
+- 🏅 5th Place – Code Hunt @ IIT Ropar
 
 ---
 
 ## 📊 GitHub Stats
-
-![Metrics](https://metrics.lecoq.io/ajaygangwar945?template=classic&config.timezone=Asia/Kolkata&languages=1)
-
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajaygangwar945&show_icons=true&theme=tokyonight)
+![GitHub Metrics](https://metrics.lecoq.io/ajaygangwar945?template=classic&config.timezone=Asia/Kolkata)
 ![Streak](https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight)
-
-
----
-
-## 🚀 Featured Projects
-(Your projects here – this matters more than stats)
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajaygangwar945&theme=algolia&no-frame=true&margin-w=6" />
-</p>
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ajaygangwar945&theme=algolia&no-frame=true&margin-w=10)
-
 
 ---
 
@@ -159,3 +132,4 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 <p align="center">⭐ “Technology isn’t just built — it’s imagined, designed, and brought to life.” ⭐</p>
 <p align="center"><b>– Ajay Gangwar</b></p>
+
