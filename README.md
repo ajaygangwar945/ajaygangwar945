@@ -13,15 +13,15 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 🔹 Strong foundation in **Python, DSA, SQL, Machine Learning & Data Visualization**  
 🔹 Enthusiastic about **Sustainability, AI for Good & Smart Technologies**  
-🔹 Constantly learning and improving through real-world projects & challenges  
+🔹 Constantly learning through real-world projects & competitive challenges  
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced Machine Learning Techniques  
-- Power BI (DAX, Data Modeling & Dashboards)  
+- Power BI (DAX, Data Modeling & Dashboard Design)  
 - Java (OOP, Collections, JDBC)  
-- Cloud Deployments & API Integrations  
+- Cloud Deployment & Secure API Integrations  
 
 ---
 
@@ -40,86 +40,89 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ### 📊 Data Science & Machine Learning
 - Python (NumPy, Pandas, Matplotlib, Scikit-learn)  
-- Predictive Modeling & EDA  
+- Exploratory Data Analysis (EDA) & Predictive Modeling  
 - SQL & PL/SQL  
-- Excel, Power BI  
-- API Integration (Google Maps, Firebase)
+- Excel, Power BI (DAX, Power Query)  
+- API Integrations (Google Maps, Firebase)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 **Ayush Healthcare Interoperability Platform**  
-- Built an interoperable health platform reducing processing latency by **40%**  
-- Developed a dual-coding engine mapping **1000+ medical terms** with **95% accuracy**  
-- Ensured **100% HL7 FHIR R4 & ISO 22600 compliance**  
-- Integrated WHO APIs + ABHA OAuth2, achieving **<200ms** processing time  
-:contentReference[oaicite:2]{index=2}
+### 🌍 **Global Terrorism Analysis Dashboard (Power BI)** 
+- Built an interactive Power BI dashboard using the **Global Terrorism Database**
+- Implemented **dynamic KPIs, Azure Maps, slicers, and year-wise trend analysis**
+- Integrated **organization logos & country flags using GitHub RAW image URLs**
+- Enabled drill-through insights for regions, organizations, and casualties  
+🔗 *Power BI | DAX | Power Query | Data Modeling*
 
 ---
 
-### 🤖 **ATS Resume Score – AI Powered Screening Tool**   
-- Automated resume scoring & alignment using Gemini Flash models  
-- Reduced manual screening time by **80%**, delivered results in **<5 sec**  
-- Implemented keyword matching with **95% accuracy**  
-- Built a secure in-memory pipeline ensuring complete data privacy  
-:contentReference[oaicite:3]{index=3}
+### 🏥 **Ayush Healthcare Interoperability Platform**
+- Reduced healthcare data processing latency by **40%**
+- Built a dual-coding engine mapping **1000+ medical terms** with **95% accuracy**
+- Ensured **HL7 FHIR R4 & ISO 22600 compliance**
+- Integrated WHO APIs & ABHA OAuth2 with **<200ms response time**  
+🔗 *Healthcare Interoperability | APIs | Secure Systems*
 
 ---
 
-### 🐾 **Pet Adoption & Animal Welfare Platform**  
-- Designed a responsive multi-page website across all device sizes  
-- Added swipe-able dynamic gallery improving engagement by **30%**  
-- Implemented validation reducing form errors by **40%**  
-- Deployed on Netlify with **99.9% uptime**  
-:contentReference[oaicite:4]{index=4}
+### 🤖 **ATS Resume Score – AI Powered Screening Tool**
+- Automated resume evaluation using **Gemini Flash models**
+- Reduced manual screening effort by **80%**
+- Delivered real-time results in **<5 seconds**
+- Designed a secure in-memory pipeline ensuring data privacy  
+🔗 *AI | NLP | Resume Parsing*
 
 ---
 
-### ☔ **Annual Rainfall Analysis – India (Data Science Project)**
-- EDA on rainfall dataset (5k–15k rows) from Data.gov.in  
-- Trend visualization, seasonal patterns, insights  
+### ☔ **Annual Rainfall Analysis – India**
+- Performed EDA on large rainfall datasets (5k–15k records)
+- Analyzed seasonal patterns and long-term rainfall trends
+- Created meaningful visual insights for academic reporting  
+🔗 *Python | Data Analysis | Visualization*
 
 ---
 
-### 🧾 **Conference Paper Submission Portal (SQL & PL/SQL)**
-- Submit, update, and track research papers  
-- Automated triggers for validations  
-- Faculty & student workflow integration  
+### 🧾 **Conference Paper Submission Portal**
+- Designed a complete research submission system using **SQL & PL/SQL**
+- Implemented triggers, constraints, and automated validations
+- Streamlined workflows for students and faculty  
+🔗 *Database Design | Automation*
 
 ---
 
 ### 🔐 **AI Smart Earrings – Patent Project**
-- AI-based personal safety device  
-- Real-time threat detection + biometric analysis  
-- Cloud-integrated emergency alert system  
+- AI-powered personal safety wearable
+- Real-time threat detection using biometric signals
+- Cloud-based emergency alert & learning system  
+🔗 *AI | IoT | Personal Safety*
 
 ---
 
 ## 🏆 Achievements
-- 🥈 **2nd Place at HackTheBlock (1,000+ participants)** — won $300
-- 🥈 **2nd Rank in AI in Web Development** for building a language learning AI platform
-- 🏅 5th Place – Code Hunt @ IIT Ropar
-
+- 🥈 **2nd Place – HackTheBlock Hackathon** (1,000+ participants)
+- 🥈 **2nd Rank – AI in Web Development Competition**
+- 🏅 **5th Place – Code Hunt @ IIT Ropar**
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajaygangwar945&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaygangwar945&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajaygangwar945&theme=algolia&no-frame=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajaygangwar945&theme=algolia&no-frame=true&margin-w=6" />
 </p>
 
 ---
 
-## ✍️ Random Dev Quote  
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
@@ -127,14 +130,19 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ---
 
 ## 🤝 Let’s Connect
-
 <p align="center">
-<a href="https://www.linkedin.com/in/ajaygangwar945/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:ajaygangwar945@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" /></a>
-<a href="https://github.com/ajaygangwar945"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/ajaygangwar945/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:ajaygangwar945@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://github.com/ajaygangwar945">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+</a>
 </p>
 
 ---
 
-<p align="center">⭐ “Technology isn’t just built — it's imagined, designed, and brought to life.” ⭐</p>
-<p align="center">– Ajay Gangwar</p>
+<p align="center">⭐ “Technology isn’t just built — it’s imagined, designed, and brought to life.” ⭐</p>
+<p align="center"><b>– Ajay Gangwar</b></p>
