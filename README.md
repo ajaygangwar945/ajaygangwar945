@@ -130,6 +130,9 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ajaygangwar945&theme=algolia&no-frame=true&margin-w=6" />
 </p>
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=ajaygangwar945&theme=algolia&no-frame=true&margin-w=10)
+
 
 ---
 
