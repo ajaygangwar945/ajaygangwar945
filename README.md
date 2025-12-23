@@ -65,7 +65,7 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github"/>
 </a>
 
-🚀 **Live Power BI Dashboard:** <a href="[https://app.powerbi.com/links/nd67FYSFmX](https://app.powerbi.com/links/nd67FYSFmX?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare)">
+🚀 **Live Power BI Dashboard:** <a href="https://app.powerbi.com/links/nd67FYSFmX?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare">
 <img src="https://img.shields.io/badge/Power%20BI-Live-yellow?logo=powerbi"/>
 </a>
 
