@@ -51,8 +51,6 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ### 🌍 Global Terrorism Analysis Dashboard (Power BI)
 
-### 🌍 Global Terrorism Analysis Dashboard (Power BI)
-
 - Built an interactive Power BI dashboard using the **Global Terrorism Database (GTD)**
 - Designed **dynamic KPIs** and year-wise trend analysis using **DAX**
 - Implemented **Azure Maps** for region-wise and country-wise geospatial insights
