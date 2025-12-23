@@ -108,7 +108,7 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajaygangwar945&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajaygangwar945&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight)
 
