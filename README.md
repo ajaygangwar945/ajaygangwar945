@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE @ Lovely Professional University | Data Science & AI Enthusiast</h3>
 
 <p align="center">
-💻 Aspiring Software Engineer | 📊 Data Science Minor | 🌱 Lifelong Learner  
+💻 Aspiring Software Engineer | 📊 Data Science Minor | 📚 Lifelong Learner
 </p>
 
 ---
@@ -17,7 +17,7 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 - Advanced Machine Learning Techniques  
 - Power BI (DAX, Data Modeling & Dashboard Design)  
 - Java (OOP, Collections, JDBC)  
@@ -49,76 +49,52 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ## 🚀 Featured Projects
 
+
 ### 🌍 Global Terrorism Analysis Dashboard (Power BI)
 
-- Built an interactive Power BI dashboard using the **Global Terrorism Database (GTD)**
-- Designed **dynamic KPIs** and year-wise trend analysis using **DAX**
-- Implemented **Azure Maps** for region-wise and country-wise geospatial insights
-- Integrated **organization logos and country flags** via GitHub RAW image URLs
-- Enabled **drill-through analysis** for regions, terrorist organizations, and casualties
-
-**Tech Stack:** Power BI Desktop, Power BI Service, Power Query, DAX, Azure Maps, CSV, GitHub
-
-🔗 **GitHub Repository :** <a href="https://github.com/ajaygangwar945/Global-Terrorism-Analysis">
-<img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github"/>
-</a>
-
-🚀 **Live Power BI Dashboard :** <a href="https://app.powerbi.com/links/nd67FYSFmX?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare">
-<img src="https://img.shields.io/badge/Power%20BI-Live-yellow?logo=powerbi"/>
-</a>
-
-
-
+- Built an interactive Power BI dashboard using the **Global Terrorism Database (GTD)**  
+- Designed **dynamic KPIs, year-wise trends, and drill-through analysis** using DAX  
+- Implemented **Azure Maps** with organization logos and country flags via GitHub RAW URLs  
 
 ---
 
 ### 🏥 Ayush Healthcare Interoperability Platform
-- Reduced healthcare processing latency by **40%**
-- Dual-coding engine mapping **1000+ medical terms** with **95% accuracy**
-- HL7 FHIR R4 & ISO 22600 compliant
-- WHO APIs & ABHA OAuth2 integration (<200ms response)  
+
+- Reduced healthcare data processing latency by **40%** through optimized workflows  
+- Built a dual-coding engine mapping **1000+ medical terms** with **95% accuracy**  
+- Ensured **HL7 FHIR R4 & ISO 22600 compliance** with secure API integrations  
 
 ---
 
 ### 🤖 ATS Resume Score – AI Powered Screening Tool
 
-- Built a **Streamlit-based ATS web application** to analyze resumes against job descriptions using **Google Gemini AI**
-- Implemented **AI-driven resume scoring**, keyword matching, and percentage fit analysis
-- Provided **actionable feedback** on missing skills, strengths, and resume improvements
-- Automated resume parsing and analysis, delivering results in **real time**
-- Ensured **secure processing** using environment variables and in-memory file handling
-
-**Tech Stack:** Python, Streamlit, Google Gemini AI (Gemini Flash), PDF Processing, NLP, dotenv
-
-🔗 **GitHub Repository:**   <a href="https://github.com/ajaygangwar945/ATS-Resume-Score">
-  <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github"/>
-</a>
-
-🚀 **Live Application:**   <a href="https://ats-resume-score-945.streamlit.app/">
-  <img src="https://img.shields.io/badge/Streamlit-Live-FF4B4B?logo=streamlit"/>
-</a>
-
+- Developed a **Streamlit-based ATS application** using **Google Gemini AI**  
+- Implemented **AI-driven resume scoring, keyword matching, and fit analysis**  
+- Delivered **real-time and secure resume evaluation** using in-memory processing  
 
 ---
 
 ### ☔ Annual Rainfall Analysis – India
-- EDA on large rainfall datasets (5k–15k records)
-- Seasonal patterns & long-term trends
-- Insightful data visualizations  
+
+- Performed **EDA on large rainfall datasets (5k–15k records)**  
+- Analyzed **seasonal patterns and long-term rainfall trends**  
+- Created insightful visualizations for academic analysis  
 
 ---
 
 ### 🧾 Conference Paper Submission Portal
-- SQL & PL/SQL based submission system
-- Automated triggers and validations
-- Faculty–student workflow automation  
+
+- Designed a **SQL & PL/SQL-based system** for paper submission and tracking  
+- Implemented **automated validations and triggers**  
+- Streamlined workflows for **students and faculty**  
 
 ---
 
 ### 🔐 AI Smart Earrings – Patent Project
-- AI-powered personal safety wearable
-- Real-time threat detection
-- Cloud-based emergency alert system  
+
+- Designed an **AI-powered personal safety wearable**  
+- Enabled **real-time threat detection using intelligent sensors**  
+- Integrated **cloud-based emergency alert mechanisms**  
 
 ---
 
@@ -141,6 +117,13 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
   <img src="https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight" />
 </p>
 
+
+### 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ajaygangwar945&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+
 ---
 
 ## ✍️ Random Dev Quote
@@ -150,18 +133,17 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ---
 
-## 🤝 Let’s Connect
-<p align="center">
-<a href="https://www.linkedin.com/in/ajaygangwar945/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:ajaygangwar945@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://github.com/ajaygangwar945">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-</a>
-</p>
+<h2 align="center">🤝 Let’s Connect</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajaygangwar945/)
+&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:ajaygangwar945@gmail.com)
+&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ajaygangwar945)
+
+</div>
 
 ---
 
