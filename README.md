@@ -110,6 +110,9 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ## 📊 GitHub Stats
 ![Metrics](https://metrics.lecoq.io/ajaygangwar945?template=classic&config.timezone=Asia/Kolkata)
 
+![Metrics](https://metrics.lecoq.io/ajaygangwar945?template=classic&config.timezone=Asia/Kolkata&languages=1)
+
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajaygangwar945&show_icons=true&theme=tokyonight)
