@@ -123,6 +123,13 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ![Streak](https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight)
 
+## 📊 GitHub Stats
+![Metrics](https://metrics.lecoq.io/ajaygangwar945)
+
+---
+
+## 🚀 Featured Projects
+(Your projects here – this matters more than stats)
 
 ---
 
