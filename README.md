@@ -59,11 +59,11 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 **Tech Stack:** Power BI Desktop, Power BI Service, Power Query, DAX, Azure Maps, CSV, GitHub
 
-🔗 **GitHub Repository:** <a href="https://github.com/ajaygangwar945/Global-Terrorism-Analysis">
+🔗 **GitHub Repository :** <a href="https://github.com/ajaygangwar945/Global-Terrorism-Analysis">
 <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github"/>
 </a>
 
-🚀 **Live Power BI Dashboard:** <a href="https://app.powerbi.com/links/nd67FYSFmX?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare">
+🚀 **Live Power BI Dashboard :** <a href="https://app.powerbi.com/links/nd67FYSFmX?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare">
 <img src="https://img.shields.io/badge/Power%20BI-Live-yellow?logo=powerbi"/>
 </a>
 
@@ -81,10 +81,23 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ---
 
 ### 🤖 ATS Resume Score – AI Powered Screening Tool
-- Automated resume evaluation using Gemini Flash
-- Reduced screening time by **80%**
-- Real-time results in **<5 seconds**
-- Secure in-memory data processing  
+
+- Built a **Streamlit-based ATS web application** to analyze resumes against job descriptions using **Google Gemini AI**
+- Implemented **AI-driven resume scoring**, keyword matching, and percentage fit analysis
+- Provided **actionable feedback** on missing skills, strengths, and resume improvements
+- Automated resume parsing and analysis, delivering results in **real time**
+- Ensured **secure processing** using environment variables and in-memory file handling
+
+**Tech Stack:** Python, Streamlit, Google Gemini AI (Gemini Flash), PDF Processing, NLP, dotenv
+
+🔗 **GitHub Repository:**   <a href="https://github.com/ajaygangwar945/ATS-Resume-Score">
+  <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github"/>
+</a>
+
+🚀 **Live Application:**   <a href="https://ats-resume-score-945.streamlit.app/">
+  <img src="https://img.shields.io/badge/Streamlit-Live-FF4B4B?logo=streamlit"/>
+</a>
+
 
 ---
 
