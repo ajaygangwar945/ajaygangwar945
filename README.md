@@ -109,13 +109,6 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=ajaygangwar945&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🔥 Contribution Streak
-<p align="center">
-
-<img width="400" src="https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight" />
-
-</p>
-
 ### 🧠 Top Languages
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaygangwar945&layout=compact&theme=tokyonight&hide_border=true" />
