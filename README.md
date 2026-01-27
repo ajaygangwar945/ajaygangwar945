@@ -1,5 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ajay%20Gangwar&fontSize=40&fontAlignY=35" />
+
 <h1 align="center">Hi there, I'm Ajay Gangwar 👋</h1>
-<h3 align="center">B.Tech CSE @ Lovely Professional University | Data Science & AI Enthusiast</h3>
+<h3 align="center">B.Tech CSE @ Lovely Professional University | Data Science and AI Enthusiast</h3>
 
 <p align="center">
 💻 Aspiring Software Engineer | 📊 Data Science Minor | 📚 Lifelong Learner
@@ -8,12 +10,13 @@
 ---
 
 ## 🌟 About Me
+
 I’m a passionate Computer Science student who enjoys building **AI-powered systems, data-driven applications, and impactful real-world solutions**.  
 From environmental intelligence tools to AI-based personal safety devices, I love working at the intersection of **technology, innovation, and social good**.
 
-🔹 Strong foundation in **Python, DSA, SQL, Machine Learning & Data Visualization**  
-🔹 Enthusiastic about **Sustainability, AI for Good & Smart Technologies**  
-🔹 Constantly learning through real-world projects & competitive challenges  
+🔹 Strong foundation in **Python, DSA, SQL, Machine Learning, and Data Visualization**  
+🔹 Enthusiastic about **Sustainability, AI for Good, and Smart Technologies**  
+🔹 Constantly learning through **real-world projects and competitive challenges**
 
 ---
 
@@ -21,7 +24,7 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 - Advanced Machine Learning Techniques  
 - Power BI (DAX, Data Modeling & Dashboard Design)  
 - Java (OOP, Collections, JDBC)  
-- Cloud Deployment & Secure API Integrations  
+- Cloud Deployment and Secure API Integrations  
 
 ---
 
@@ -49,9 +52,7 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ## 🚀 Featured Projects
 
-
 ### 🌍 Global Terrorism Analysis Dashboard (Power BI)
-
 - Built an interactive Power BI dashboard using the **Global Terrorism Database (GTD)**  
 - Designed **dynamic KPIs, year-wise trends, and drill-through analysis** using DAX  
 - Implemented **Azure Maps** with organization logos and country flags via GitHub RAW URLs  
@@ -59,15 +60,13 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ---
 
 ### 🏥 Ayush Healthcare Interoperability Platform
-
 - Reduced healthcare data processing latency by **40%** through optimized workflows  
-- Built a dual-coding engine mapping **1000+ medical terms** with **95% accuracy**  
+- Built a dual-coding engine mapping **1,000+ medical terms** with **95% accuracy**  
 - Ensured **HL7 FHIR R4 & ISO 22600 compliance** with secure API integrations  
 
 ---
 
 ### 🤖 ATS Resume Score – AI Powered Screening Tool
-
 - Developed a **Streamlit-based ATS application** using **Google Gemini AI**  
 - Implemented **AI-driven resume scoring, keyword matching, and fit analysis**  
 - Delivered **real-time and secure resume evaluation** using in-memory processing  
@@ -75,7 +74,6 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ---
 
 ### ☔ Annual Rainfall Analysis – India
-
 - Performed **EDA on large rainfall datasets (5k–15k records)**  
 - Analyzed **seasonal patterns and long-term rainfall trends**  
 - Created insightful visualizations for academic analysis  
@@ -83,7 +81,6 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ---
 
 ### 🧾 Conference Paper Submission Portal
-
 - Designed a **SQL & PL/SQL-based system** for paper submission and tracking  
 - Implemented **automated validations and triggers**  
 - Streamlined workflows for **students and faculty**  
@@ -91,7 +88,6 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ---
 
 ### 🔐 AI Smart Earrings – Patent Project
-
 - Designed an **AI-powered personal safety wearable**  
 - Enabled **real-time threat detection using intelligent sensors**  
 - Integrated **cloud-based emergency alert mechanisms**  
@@ -99,30 +95,28 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ---
 
 ## 🏆 Achievements
-- 🥈 2nd Place – HackTheBlock Hackathon (1,000+ participants)
-- 🥈 2nd Rank – AI in Web Development Competition
-- 🏅 5th Place – Code Hunt @ IIT Ropar
+- 🥈 2nd Place – HackTheBlock Hackathon (1,000+ participants)  
+- 🥈 2nd Rank – AI in Web Development Competition  
+- 🏅 5th Place – Code Hunt @ IIT Ropar  
 
 ---
 
 ## 📊 GitHub Stats
 
-### 📈 Overall Activity
+### 📈 GitHub Overview
 <p align="center">
-  <img src="https://metrics.lecoq.io/ajaygangwar945?template=classic&config.timezone=Asia/Kolkata" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaygangwar945&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight&hide_border=true" />
 </p>
 
-
-### 🔝 Top Contributed Repositories
+### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ajaygangwar945&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaygangwar945&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
@@ -149,4 +143,3 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 <p align="center">⭐ “Technology isn’t just built — it’s imagined, designed, and brought to life.” ⭐</p>
 <p align="center"><b>– Ajay Gangwar</b></p>
-
