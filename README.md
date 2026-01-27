@@ -128,31 +128,15 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 <h2 align="center">🤝 Let’s Connect</h2>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajaygangwar945/)
-&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:ajaygangwar945@gmail.com)
-&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ajaygangwar945)
-
-</div>
-
-
-
-<div align="center">
   <a href="https://www.linkedin.com/in/ajaygangwar945/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ajaygangwar945@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ajaygangwar945">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /</a>
 </div>
-
 
 ---
 
