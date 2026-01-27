@@ -135,7 +135,7 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ajaygangwar945">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /</a>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
 </div>
 
 ---
