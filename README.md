@@ -137,6 +137,23 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 </div>
 
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ajaygangwar945/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ajaygangwar945@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ajaygangwar945">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+
 ---
 
 <p align="center">⭐ “Technology isn’t just built — it’s imagined, designed, and brought to life.” ⭐</p>
