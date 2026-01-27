@@ -1,6 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ajay%20Gangwar&fontSize=40&fontAlignY=35" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ajay%20Gangwar%20%F0%9F%91%8B&fontSize=40&fontAlignY=35" />
+</p>
 
-<h1 align="center">Hi there, I'm Ajay Gangwar 👋</h1>
 <h3 align="center">B.Tech CSE @ Lovely Professional University | Data Science and AI Enthusiast</h3>
 
 <p align="center">
@@ -31,7 +32,7 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ## 🧠 Skills & Technologies
 
 ### 💻 Programming Languages
-<p>
+<p >
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript" />
 </p>
 
@@ -105,18 +106,21 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ### 📈 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaygangwar945&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ajaygangwar945&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight&hide_border=true" />
+
+<img width="400" src="https://streak-stats.demolab.com?user=ajaygangwar945&theme=tokyonight" />
+
 </p>
 
 ### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaygangwar945&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaygangwar945&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
