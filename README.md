@@ -2,6 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ajay%20Gangwar%20%F0%9F%91%8B&fontSize=40&fontAlignY=35" />
 </p>
 
+
 <h3 align="center">B.Tech CSE @ Lovely Professional University | Data Science and AI Enthusiast</h3>
 
 <p align="center">
