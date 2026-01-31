@@ -39,7 +39,7 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ### 🚀 Technologies & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=react,firebase,git,github,html,css,mysql,nodejs,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=react,firebase,git,github,html,css,mysql,nodejs,vscode,figma&size=64" />
 </p>
 
 ### 📊 Data Science & Machine Learning
