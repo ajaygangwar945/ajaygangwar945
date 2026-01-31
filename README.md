@@ -32,18 +32,21 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 
 ## 🧠 Skills & Technologies
 
-### 💻 Programming Languages
-<p >
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript" />
+## 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript&size=64" />
 </p>
 
-### 🚀 Technologies & Tools
-<p>
-  <img
-  src="https://skillicons.dev/icons?i=react,firebase,git,github,html,css,mysql,nodejs,vscode,figma&size=64"
-  style="width: 60; height: 60;"
-/>
+## 🚀 Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,firebase,git,github,html,css,mysql,nodejs,vscode,figma&size=64" />
 </p>
+
+## 📊 Data Science & Analytics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,tableau,powerbi&size=64" />
+</p>
+
 
 ### 📊 Data Science & Machine Learning
 - Python (NumPy, Pandas, Matplotlib, Scikit-learn)  
