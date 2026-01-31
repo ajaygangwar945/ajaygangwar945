@@ -41,6 +41,7 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,mongodb,git,github,html,css,tailwind,bootstrap,vscode,figma,linux&size=48" />
 </p>
+ <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,mongodb,git,github,html,css,tailwind,bootstrap,vscode,figma,linux&size=48" />
 
 ### 📊 Data Science & Machine Learning
 - Python (NumPy, Pandas, Matplotlib, Scikit-learn)  
