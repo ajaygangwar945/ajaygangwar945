@@ -41,7 +41,7 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 <p>
   <img
   src="https://skillicons.dev/icons?i=react,firebase,git,github,html,css,mysql,nodejs,vscode,figma&size=64"
-  style="width: auto; height: auto;"
+  style="width: 60; height: 60;"
 />
 </p>
 
