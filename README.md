@@ -20,7 +20,11 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 🔹 Constantly learning through **real-world projects, internships, and competitive challenges**
 
 📌 Portfolio: https://ajay-gangwar-portfolio.netlify.app  
-
+<p align="left">
+  <a href="https://ajay-gangwar-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 📚 Currently Learning
