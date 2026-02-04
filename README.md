@@ -2,23 +2,24 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ajay%20Gangwar%20%F0%9F%91%8B&fontSize=40&fontAlignY=35" />
 </p>
 
-
 <h3 align="center">B.Tech CSE @ Lovely Professional University | Data Science and AI Enthusiast</h3>
 
 <p align="center">
-💻 Aspiring Software Engineer | 📊 Data Science Minor | 📚 Lifelong Learner
+💻 Aspiring Software Engineer | 🎓 B.Tech CSE | 📊 Data Science Minor | 📚 Lifelong Learner
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I’m a passionate Computer Science student who enjoys building **AI-powered systems, data-driven applications, and impactful real-world solutions**.  
+I’m a passionate **B.Tech Computer Science & Engineering student with a Data Science Minor** who enjoys building **AI-powered systems, data-driven applications, and impactful real-world solutions**.  
 From environmental intelligence tools to AI-based personal safety devices, I love working at the intersection of **technology, innovation, and social good**.
 
 🔹 Strong foundation in **Python, DSA, SQL, Machine Learning, and Data Visualization**  
 🔹 Enthusiastic about **Sustainability, AI for Good, and Smart Technologies**  
-🔹 Constantly learning through **real-world projects and competitive challenges**
+🔹 Constantly learning through **real-world projects, internships, and competitive challenges**
+
+📌 Portfolio: https://ajay-gangwar-portfolio.netlify.app  
 
 ---
 
@@ -33,86 +34,109 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 ## 🧠 Skills & Technologies
 
 ## 💻 Programming Languages
-
 <p align="left"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,php,bash" /></p>
 
 ## 🚀 Technologies & Tools
-
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nodejs,express,mongodb" /></p>
 <p align="left"><img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,firebase,photoshop,figma" /></p>
 
 ### 📊 Data Science & Machine Learning
-- Python (NumPy, Pandas, Matplotlib, Scikit-learn)  
+- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)  
 - Exploratory Data Analysis (EDA) & Predictive Modeling  
 - SQL & PL/SQL  
 - Excel, Power BI (DAX, Power Query)  
 - API Integrations (Google Maps, Firebase)
 
+### 🧱 Core CS Fundamentals
+- DBMS, Operating Systems, Computer Networks  
+- Object-Oriented Programming (OOP)  
+- Software Engineering  
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🌍 Global Terrorism Analysis Dashboard (Power BI)
-- Built an interactive Power BI dashboard using the **Global Terrorism Database (GTD)**  
-- Designed **dynamic KPIs, year-wise trends, and drill-through analysis** using DAX  
-- Implemented **Azure Maps** with organization logos and country flags via GitHub RAW URLs  
-
----
-
 ### 🏥 Ayush Healthcare Interoperability Platform
-- Reduced healthcare data processing latency by **40%** through optimized workflows  
-- Built a dual-coding engine mapping **1,000+ medical terms** with **95% accuracy**  
-- Ensured **HL7 FHIR R4 & ISO 22600 compliance** with secure API integrations  
+- Architected React + FastAPI platform reducing latency by **35–40%**  
+- Built dual-coding engine mapping **1,000+ medical terms** with **95% accuracy**  
+- Standardized exchange using **HL7 FHIR R4 & ISO 22600**  
+- Integrated **ABHA OAuth2 & WHO APIs** with sub-200ms processing  
 
 ---
 
 ### 🤖 ATS Resume Score – AI Powered Screening Tool
-- Developed a **Streamlit-based ATS application** using **Google Gemini AI**  
-- Implemented **AI-driven resume scoring, keyword matching, and fit analysis**  
-- Delivered **real-time and secure resume evaluation** using in-memory processing  
+- Built Streamlit ATS analyzer reducing screening time by **70%**  
+- Implemented Gemini Flash models for PDF parsing & scoring  
+- Achieved **92% accuracy** in job-fit analysis  
+- Secure in-memory resume processing  
+
+---
+
+### 🐾 Pet Adoption & Animal Welfare Platform
+- Responsive multi-device web platform  
+- Swiper.js powered interactive gallery  
+- Client-side validation reducing form errors by **40%**  
+- Deployed on Netlify with CI/CD  
 
 ---
 
 ### ☔ Annual Rainfall Analysis – India
-- Performed **EDA on large rainfall datasets (5k–15k records)**  
-- Analyzed **seasonal patterns and long-term rainfall trends**  
-- Created insightful visualizations for academic analysis  
+- EDA on datasets (5k–15k records)  
+- Seasonal & long-term trend analysis  
+- Insightful academic visualizations  
 
 ---
 
 ### 🧾 Conference Paper Submission Portal
-- Designed a **SQL & PL/SQL-based system** for paper submission and tracking  
-- Implemented **automated validations and triggers**  
-- Streamlined workflows for **students and faculty**  
+- Oracle APEX based portal  
+- PL/SQL triggers & stored procedures  
+- Role-based dashboards  
+- Reduced processing time by **60%**  
 
 ---
 
 ### 🔐 AI Smart Earrings – Patent Project
-- Designed an **AI-powered personal safety wearable**  
-- Enabled **real-time threat detection using intelligent sensors**  
-- Integrated **cloud-based emergency alert mechanisms**  
+- AI-based personal safety wearable  
+- Real-time threat detection  
+- Cloud emergency alerts  
 
 ---
 
 ## 🏆 Achievements
-- 🥈 2nd Place – HackTheBlock Hackathon (1,000+ participants)  
+- 🥈 2nd Place – HackTheBlock Hackathon (1k+ participants, $300 prize)  
 - 🥈 2nd Rank – AI in Web Development Competition  
 - 🏅 5th Place – Code Hunt @ IIT Ropar  
 
 ---
 
+## 📜 Certifications
+- Introduction to Modern AI – Cisco  
+- Flutter UI Bootcamp – Udemy  
+- Python for Data Science – NPTEL  
+- Software Engineering – Coursera  
+- Responsive Web Design – freeCodeCamp  
+
+---
+
+## 🎓 Education
+**Lovely Professional University, Punjab**  
+B.Tech Computer Science & Engineering (Data Science Minor) | CGPA: 7.38  
+
+**Vidya Bhavan Public School, Bareilly**  
+Intermediate – 74%  
+Matriculation – 90%  
+
+---
+
 ## 📊 GitHub Stats
 
-### 📈 GitHub Overview
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=ajaygangwar945&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🧠 Top Languages
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaygangwar945&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
