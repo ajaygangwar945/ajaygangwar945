@@ -20,11 +20,8 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 🔹 Constantly learning through **real-world projects, internships, and competitive challenges**
 
 📌 Portfolio: https://ajay-gangwar-portfolio.netlify.app  
-<p align="left">
-  <a href="https://ajay-gangwar-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+
+
 ---
 
 ## 📚 Currently Learning
@@ -110,25 +107,6 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 - 🥈 2nd Place – HackTheBlock Hackathon (1k+ participants, $300 prize)  
 - 🥈 2nd Rank – AI in Web Development Competition  
 - 🏅 5th Place – Code Hunt @ IIT Ropar  
-
----
-
-## 📜 Certifications
-- Introduction to Modern AI – Cisco  
-- Flutter UI Bootcamp – Udemy  
-- Python for Data Science – NPTEL  
-- Software Engineering – Coursera  
-- Responsive Web Design – freeCodeCamp  
-
----
-
-## 🎓 Education
-**Lovely Professional University, Punjab**  
-B.Tech Computer Science & Engineering (Data Science Minor) | CGPA: 7.38  
-
-**Vidya Bhavan Public School, Bareilly**  
-Intermediate – 74%  
-Matriculation – 90%  
 
 ---
 
