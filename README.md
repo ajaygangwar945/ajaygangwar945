@@ -160,5 +160,5 @@ From environmental intelligence tools to AI-based personal safety devices, I lov
 <p align="center"><b>– Ajay Gangwar</b></p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontAlignY=70" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontAlign=50&fontAlignY=70" />
 </p>
